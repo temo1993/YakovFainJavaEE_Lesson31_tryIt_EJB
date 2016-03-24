@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="YakovFainJavaEE_Lesson31_tryIt_EJB:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/YakovFainJavaEE_Lesson31_tryIt_EJB_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="YakovFainJavaEE_Lesson31_tryIt_EJB/ejb/EJB" />
+      <element id="module-output" name="YakovFainJavaEE_Lesson31_tryIt_EJB" />
+    </root>
+  </artifact>
+</component>
